@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Research Engineer at Google DeepMind
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: me_pic.jpg
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior research engineer at Google DeepMind where I work on Gemini. I am working predominantly on multimodal post-training.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before working on Gemini, I was an applied scientist at Amazon / AWS where I worked on a range of time series related projects. I worked on [the simulator](https://www.amazon.science/latest-news/how-peak-events-like-prime-day-helped-amazon-navigate-the-pandemic) that let's Amazon optimize its global supply chain, developing [probabilistic forecasting techniques](https://www.amazon.science/blog/improving-forecasting-by-learning-quantile-functions) to improve demand prediction.
+I was the lead scientist for the [Quarterback grading](https://www.amazon.science/blog/the-science-behind-nfl-next-gen-stats-new-passing-metric) for the [American National Football League](https://www.nfl.com/news/next-gen-stats-intro-to-passing-score-metric).
+I also pioniered the [use of synthetic data](https://patents.google.com/patent/US11636125B1/en) for [AWS DevOps Guru](https://aws.amazon.com/devops-guru/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
