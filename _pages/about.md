@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Research Engineer at Google DeepMind
+subtitle: # Senior Research Engineer at Google DeepMind
 
 profile:
   align: right
